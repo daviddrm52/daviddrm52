@@ -1,5 +1,5 @@
 - Trying to be a web developer i think
-- Helped World In Chaos in the past
+- Former World In Chaos developer in the past for SCP:SL
 - You can reach me in discord: @daviddrm52 & Twitter: @daviddrm52
 
 <!---

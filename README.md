@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @daviddrm52
-- 👀 I’m interested in aviation
-- 🌱 I’m currently learning JavaScript, HTML, etc.
-- 📫 You can reach me in discord: daviddrm52#4024 & Twitter: @daviddrm52
+- Trying to be a web developer i think
+- Helped World In Chaos in the past
+- You can reach me in discord: @daviddrm52 & Twitter: @daviddrm52
 
 <!---
 daviddrm52/daviddrm52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
